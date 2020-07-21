@@ -1,2 +1,2 @@
 # PYM_Indumentaria
-Página de informacion
+Pagina de Inforacion de PYM Indumentaria donde se provee prendas de vestir.
