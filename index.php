@@ -129,12 +129,12 @@
 <section class="page-section" id="contact">
     <div class="container">
         <div class="text-center">
-            <h2 class="section-heading text-uppercase">Contact Us</h2>
-            <h3 class="text-white-50">Envianos un mensaje al número: 970523305.</h3>
+            <h2 class="section-heading text-uppercase">Contactanos</h2>
+            <h3 class="section-subheading text-white">Envianos un mensaje al número: 970523305.</h3>
         </div>
         <form id="contactForm" name="sentMessage" novalidate="novalidate">
             <div class="row align-items-stretch mb-5">
-                <h3>O escribenos un correo con lo que necesitas</h3>
+                <h2 class="section-heading text-uppercase">O escribenos un correo con lo que necesitas</h2>
                 <div class="col-md-6">
                     <div class="form-group">
                         <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." />
