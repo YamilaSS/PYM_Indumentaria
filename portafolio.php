@@ -57,7 +57,7 @@
 </div>
 
 <!-- Productos 2-->
-<section class="page-section bg-light" id="portfolio">
+<section class="page-section bg-light" id="portfolio2">
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Productos</h2>
