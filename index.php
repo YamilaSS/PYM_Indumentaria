@@ -87,9 +87,9 @@
             <h3 class="section-subheading text-muted">Somos una organización que se encarga de ofrecerte la mejor calidad de prendas para que puedas expresar lo mejor de ti con el mejor confort.</h3>
         </div>
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-12">
                 <div class="team-member">
-                    <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="" />
+                    <img class="mx-auto rounded-circle" src="assets/img/team/Perla%20Seminario.jpg" alt="" />
                     <h4>Perla Seminario Salazar</h4>
                     <p class="text-muted">Fundadora</p>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
