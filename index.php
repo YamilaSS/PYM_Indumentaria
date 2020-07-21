@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Agency - Start Bootstrap Theme</title>
+    <title>PYM - Indumentaria</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
@@ -27,11 +27,11 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Services</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Team</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Servicios</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Productos</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Nosotros</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Equipo</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contacto</a></li>
             </ul>
         </div>
     </div>
@@ -39,9 +39,9 @@
 <!-- Masthead-->
 <header class="masthead">
     <div class="container">
-        <div class="masthead-subheading">Welcome To Our Studio!</div>
-        <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+        <div class="masthead-subheading">Bienvenido</div>
+        <div class="masthead-heading text-uppercase">Nos encanta tenerte aquí</div>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Catálogo</a>
     </div>
 </header>
 <!-- Services-->
