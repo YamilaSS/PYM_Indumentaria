@@ -125,7 +125,7 @@
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Contact Us</h2>
-            <h3 class="section-subheading">Envianos un mensaje al número: 970523305.</h3>
+            <h3 class="section-subheading text-wrap">Envianos un mensaje al número: 970523305.</h3>
         </div>
     </div>
 </section>
