@@ -107,7 +107,9 @@
 </section>
 <!-- Clients-->
 <div class="py-5">
-    <h3 class="section-subheading text-muted">Marcas que ofrecemos</h3>
+    <div class="text-center">
+        <h3 class="section-subheading text-muted">Marcas que ofrecemos</h3>
+    </div>
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6 my-3">
