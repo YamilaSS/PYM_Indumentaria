@@ -1,1 +1,1 @@
-<h1>Funciona</h1>
+<?php require 'index.html';
