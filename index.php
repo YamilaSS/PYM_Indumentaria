@@ -134,7 +134,7 @@
         </div>
         <form id="contactForm" name="sentMessage" novalidate="novalidate">
             <div class="row align-items-stretch mb-5">
-                <h2 class="section-heading text-uppercase">O escribenos un correo con lo que necesitas</h2>
+                <h3 class="section-subheading text-white">O escribenos un correo con lo que necesitas</h3>
                 <div class="col-md-6">
                     <div class="form-group">
                         <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." />
