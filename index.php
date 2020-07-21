@@ -102,9 +102,9 @@
 </section>
 <!-- Clients-->
 <div class="py-5">
+    <h3 class="section-subheading text-muted">Marcas que ofrecemos</h3>
     <div class="container">
         <div class="row">
-            <h3 class="section-subheading text-muted">Marcas que ofrecemos</h3>
             <div class="col-md-3 col-sm-6 my-3">
                 <a href="#!"><img class="img-fluid d-block mx-auto" src="assets/img/logos/envato.jpg" alt="" /></a>
             </div>
@@ -125,8 +125,7 @@
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Contact Us</h2>
-            <p class="text-muted">Envianos un mensaje al número: 970523305</p>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">Envianos un mensaje al número: 970523305.</h3>
         </div>
     </div>
 </section>
