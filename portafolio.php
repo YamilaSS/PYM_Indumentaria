@@ -15,7 +15,7 @@
                         <img class="img-fluid" src="assets/img/portfolio/Push%20Up%20Rosa%20y%20azul.png" alt=""/>
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Push-Up Rosa y Azul</div>
+                        <div class="portfolio-caption-heading">Push-Up</div>
                         <div class="portfolio-caption-subheading text-muted"></div>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
                         <img class="img-fluid" src="assets/img/portfolio/Colores%20enteros%20Push%20up%20.png" alt=""/>
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Push-Up Colores enteros</div>
+                        <div class="portfolio-caption-heading">Push-Up</div>
                         <div class="portfolio-caption-subheading text-muted"></div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
                         <img class="img-fluid" src="assets/img/portfolio/Push%20Up%20rosa.png" alt=""/>
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Push-Up Rosa</div>
+                        <div class="portfolio-caption-heading">Push-Up</div>
                         <div class="portfolio-caption-subheading text-muted"></div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                         <img class="img-fluid" src="assets/img/portfolio/Strapless%20Negro%20Azul%20y%20Blanco.jfif" alt=""/>
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Strapless Negro, Azul y Blanco</div>
+                        <div class="portfolio-caption-heading">Strapless</div>
                         <div class="portfolio-caption-subheading text-muted"></div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                         <img class="img-fluid" src="assets/img/portfolio/Strapless%20rosa%20y%20blanco.jfif" alt=""/>
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Strapless Rosa y Blanco</div>
+                        <div class="portfolio-caption-heading">Strapless</div>
                         <div class="portfolio-caption-subheading text-muted"></div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project Details Go Here-->
-                            <h2 class="text-uppercase">Push-Up Rosa y Azul</h2>
+                            <h2 class="text-uppercase">Push-Up</h2>
                             <p class="item-intro text-muted">Seguridad y Confort.</p>
                             <img class="img-fluid d-block mx-auto"
                                  src="assets/img/portfolio/Push%20Up%20Rosa%20y%20azul.png" alt=""/>
@@ -122,7 +122,7 @@
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project Details Go Here-->
-                            <h2 class="text-uppercase">Push-Up Colores enteros</h2>
+                            <h2 class="text-uppercase">Push-Up</h2>
                             <p class="item-intro text-muted">Seguridad y Confort.</p>
                             <img class="img-fluid d-block mx-auto"
                                  src="assets/img/portfolio/Colores%20enteros%20Push%20up%20.png" alt=""/>
@@ -154,7 +154,7 @@
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project Details Go Here-->
-                            <h2 class="text-uppercase">Push-Up Rosa</h2>
+                            <h2 class="text-uppercase">Push-Up</h2>
                             <p class="item-intro text-muted">Seguridad y Confort.</p>
                             <img class="img-fluid d-block mx-auto"
                                  src="assets/img/portfolio/Push%20Up%20rosa.png" alt=""/>
@@ -186,7 +186,7 @@
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project Details Go Here-->
-                            <h2 class="text-uppercase">Strapless Negro, Azul y Blanco</h2>
+                            <h2 class="text-uppercase">Strapless</h2>
                             <p class="item-intro text-muted">Seguridad y Confort.</p>
                             <img class="img-fluid d-block mx-auto"
                                  src="assets/img/portfolio/Strapless%20Negro%20Azul%20y%20Blanco.jfif" alt=""/>
@@ -217,7 +217,7 @@
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project Details Go Here-->
-                            <h2 class="text-uppercase">Strapless Rosa y Blanco</h2>
+                            <h2 class="text-uppercase">Strapless</h2>
                             <p class="item-intro text-muted">Seguridad y Confort.</p>
                             <img class="img-fluid d-block mx-auto"
                                  src="assets/img/portfolio/Strapless%20rosa%20y%20blanco.jfif" alt=""/>
